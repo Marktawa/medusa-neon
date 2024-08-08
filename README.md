@@ -43,7 +43,7 @@ DATABASE_URL=<Neon-connection-string>
 
 Seed database
 ```sh
-medusa seed --seed-file="./data/seed.json"
+npx medusa seed --seed-file="./data/seed.json"
 ```
 
 Start Medusa server.
